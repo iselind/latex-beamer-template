@@ -1,0 +1,5 @@
+digraph {
+    A -> B
+    B -> "This is a node with a long text in it"
+    B -> D
+}
